@@ -16,7 +16,8 @@ Here are some suggestions about how to run the GUAMP code.
 (3)main
 
 
-If you find this of interest and use it, please cite as follows
+
+If you find this of interest and use it, please cite as follows: 
 
 @article{zhu2022unitary,
 
