@@ -1,4 +1,4 @@
-This is the open-sourced code for paper in [A Unitary Transform Based Generalized Approximate Message Passing](https://arxiv.org/abs/2210.08861)
+This is the open-sourced code for the paper [A Unitary Transform Based Generalized Approximate Message Passing](https://arxiv.org/abs/2210.08861) on GUAMP algorithm, which deals with inference on genealized linear models (GLM).  
 
 
 Here are some suggestions about how to run the GUAMP code.
