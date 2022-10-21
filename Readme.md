@@ -1,3 +1,6 @@
+Code for paper "" in [A Unitary Transform Based Generalized Approximate Message Passing](https://arxiv.org/abs/2210.08861)
+
+
 Here are some suggestions about how to run the GUAMP code.
 
 1.Download the programm and unzip the package 
@@ -8,3 +11,5 @@ Here are some suggestions about how to run the GUAMP code.
 (1)classification
 (2)phase
 (3)main
+
+
